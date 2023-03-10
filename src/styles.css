@@ -53,3 +53,9 @@ li {
 .search-form {
     margin-bottom: 20px;
 }
+
+.github-link {
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+}
